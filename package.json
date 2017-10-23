@@ -1,0 +1,29 @@
+{
+  "name": "vue-big-calendar",
+  "version": "1.0.2",
+  "description": "A Vue Calendar - Inspired by Fullcalendar (no Jquery)",
+  "main": "src/calendar.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "dependencies": {
+      "vue": "^2.1.8"
+    },
+   "devDependencies": {
+      "moment": "^2.17.1",
+      "v-tooltip": "^2.0.0-rc.1"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoseco/vue-big-calendar.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Bruno secco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoseco/vue-big-calendar/issues"
+  },
+  "homepage": "https://github.com/brunoseco/vue-big-calendar#readme"
+}
